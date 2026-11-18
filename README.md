@@ -1,8 +1,6 @@
 # Grok Bot Templates for Local Businesses
 
-**Status:** Local draft for owner review. Template install links and service prices are placeholders. Nothing in this README is a live public offer until the owner approves it and replaces the placeholders.
-
-A small collection of [Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) templates for local shops (cafes, bakeries, salons, restaurants, and retail). Templates are **free to install**. If you want someone to set one up, customize it, or run a weekly draft cycle with you, see [Need it set up for your business?](#need-it-set-up-for-your-business) — that section is a **draft pending owner approval**.
+A small collection of [Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) templates for local shops (cafes, bakeries, salons, restaurants, and retail). Templates are **free to install**. If you want someone to set one up, customize it, or run a weekly draft cycle with you, see [Need it set up for your business?](#need-it-set-up-for-your-business).
 
 ---
 
@@ -18,7 +16,7 @@ This collection focuses on weekly, practical back-office and marketing work for 
 
 ## Templates
 
-### Available now (link pending)
+### Available now
 
 #### 1. 中英内容改写分发官 / Bilingual Content Rewriter & Distributor
 
@@ -27,7 +25,7 @@ Turn one source text or photo note into ready-to-post Chinese and English drafts
 It rewrites a single note for Google Business Profile, Instagram, Facebook, X, WeChat Moments, 小红书, and short Yelp or delivery-app blurbs. It also drafts a weekly content calendar. You approve each post before anything goes public.
 
 - Package (draft): [`templates/bilingual-content-distributor/`](templates/bilingual-content-distributor/)
-- Install: `TEMPLATE_LINK_PENDING`
+- Install: [Add to Grok Bot](https://x.ai/bot/Z1puFaXlnLGKJoaEmNSJZ)
 - After you add it, say: **“Set me up, ask me one at a time.”**
 
 ### Coming soon
@@ -45,17 +43,15 @@ It rewrites a single note for Google Business Profile, Instagram, Facebook, X, W
 4. Answer questions about your business name and type, languages, platforms, tone, banned words, posting frequency, and the approval rule.
 5. Send one real photo or a rough note and review the first drafts. The bot should wait for you before anything is posted.
 
-**Template #1 install link:** `TEMPLATE_LINK_PENDING`
+**Template #1 install link:** [Add to Grok Bot](https://x.ai/bot/Z1puFaXlnLGKJoaEmNSJZ)
 
 ---
 
 ## Need it set up for your business?
 
-> **DRAFT — pending owner approval.** Prices, scope, and the contact method below are proposals only. This is not a live offer and not a commitment to take work until the owner publishes a final version.
-
 Templates stay free. These paid options are for people who want help installing, tuning, or running the bot:
 
-| Tier | Draft price | What you get (proposed) |
+| Tier | Price | What you get |
 |---|---|---|
 | **Quick Setup** | **$49** | Install the template, walk through setup questions, tune tone and banned words, and produce the first week of drafts for you to approve. |
 | **Custom setup** | **$149** | Everything in Quick Setup, plus a closer fit to your platforms, voice, weekly calendar, and any extra rules (for example hours, holiday handling, or a second brand voice). |
@@ -65,7 +61,7 @@ All three tiers keep the same rule: **nothing is posted without your approval.**
 
 **Contact:** jamesy6920@outlook.com (or DM on X)
 
-**Payment (placeholder):** `[PAYMENT_LINK_PENDING]` — to be replaced only after the owner chooses a method (for example a Stripe Payment Link or X Money).
+**Payment:** sent by email after we confirm what you need.
 
 ---
 
@@ -82,15 +78,13 @@ CONTRIBUTING.md                            How to suggest changes without sendin
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Replace `[OWNER_NAME_PENDING]` in the license file before the first public release.
+MIT. See [LICENSE](LICENSE).
 
 ---
 
 # 中文说明
 
-**状态：** 供负责人审阅的本地草稿。安装链接和收费标准都是占位，经批准并替换之前，不视为已对外报价。
-
-这是一套面向本地小店（咖啡店、烘焙店、美容院、餐馆、零售店等）的 [Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) 模版合集。模版**免费安装**。若希望有人代为配置、定制或按周整理草稿，请看下方「需要帮你的店装好吗？」——该节目前是**待审批草稿**。
+这是一套面向本地小店（咖啡店、烘焙店、美容院、餐馆、零售店等）的 [Grok Bot](https://x.ai/bot/guides/templates-for-grok-bot) 模版合集。模版**免费安装**。若希望有人代为配置、定制或按周整理草稿，请看下方「需要帮你的店装好吗？」。
 
 ## Grok Bot 模版是什么？
 
@@ -109,7 +103,7 @@ MIT. See [LICENSE](LICENSE). Replace `[OWNER_NAME_PENDING]` in the license file 
 覆盖 Google 商家帖、Instagram、Facebook、X、微信朋友圈、小红书，以及 Yelp / 外卖平台短简介，并会起草一周内容日历。
 
 - 草稿目录：[`templates/bilingual-content-distributor/`](templates/bilingual-content-distributor/)
-- 安装链接：`TEMPLATE_LINK_PENDING`
+- 安装链接：[Add to Grok Bot](https://x.ai/bot/Z1puFaXlnLGKJoaEmNSJZ)
 - 加完后请说：「先帮我设置，一次问一个问题。」
 
 ### 即将推出
@@ -125,15 +119,13 @@ MIT. See [LICENSE](LICENSE). Replace `[OWNER_NAME_PENDING]` in the license file 
 4. 按提问回答店名和类型、语言、平台、语气、禁用词、发布频率和审批规则。
 5. 发一张图或一条草稿，先看效果。未得到你的批准前，bot 不应代发。
 
-**模版 1 安装链接：** `TEMPLATE_LINK_PENDING`
+**模版 1 安装链接：** [Add to Grok Bot](https://x.ai/bot/Z1puFaXlnLGKJoaEmNSJZ)
 
 ## 需要帮你的店装好吗？
 
-> **草稿，待负责人批准。** 下列价格、范围和联系方式只是建议，在正式发布前不构成对外报价，也不承诺接单。
-
 模版本身免费。收费的是安装、定制和按周整理草稿：
 
-| 档位 | 建议价格（草稿） | 建议内容 |
+| 档位 | 价格 | 内容 |
 |---|---|---|
 | **快速配置** | **$49** | 装好模版、问完设置、调好语气和禁用词，并出第一周草稿，由你批准。 |
 | **定制配置** | **$149** | 含快速配置，再按你的平台、语气、周日历和额外规则细调。 |
@@ -142,4 +134,4 @@ MIT. See [LICENSE](LICENSE). Replace `[OWNER_NAME_PENDING]` in the license file 
 三档都遵守同一条：**未经你批准，不代为发布。**
 
 **联系方式：** jamesy6920@outlook.com（或 X 私信）  
-**收款方式（占位）：** `[PAYMENT_LINK_PENDING]`
+**付款：** 确认需求后通过邮件发送付款方式。

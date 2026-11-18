@@ -12,7 +12,7 @@
 | Location | Maplebrook (fictional town) |
 | Languages | Chinese and English, as separate drafts |
 | Platforms | Google Business Profile, Instagram, Facebook, X, WeChat Moments, 小红书, Yelp update, delivery-app blurb |
-| Tone | Warm, casual, neighborly. Light emoji OK. Google: no hashtags. Instagram / 小红书: 3–8 tags. X: at most one tag. |
+| Tone | Warm, casual, neighborly. Light emoji OK. Google: no hashtags. Instagram: 3–5 tags. 小红书: 5–8 tags. X: at most one tag. |
 | Banned | “Best bakery in town,” “#1,” competitor names, invented awards, discounts not in the source |
 | Hours note | Closed Mondays |
 | Approval | Draft only; wait for the shop owner to approve each post |
@@ -58,7 +58,7 @@ Sunny Corner Bakery, Maplebrook.
 
 #MaplebrookEats #Bakery #WeekendSpecial
 
-**中文（约 114 字含标签 / 2,200）：**
+**中文（114 字含标签 / 2,200）：**
 
 周末限定，只在周六、周日。
 
